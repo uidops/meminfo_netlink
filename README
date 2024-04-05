@@ -1,0 +1,6 @@
+meminfo netlink kernel module
+
+
+make KDIR=/usr/src/linux all
+make KDIR=/usr/src/linux install
+modprobe meminfo_netlink
