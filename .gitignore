@@ -4,3 +4,4 @@
 *.symvers
 *.mod*
 *.order
+meminfo_test
